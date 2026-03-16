@@ -1075,28 +1075,28 @@ Goku's recovered Skill Points.
 
 #W16($4C828)
 トリデのちず[END]
-Map of Toride
+Hideout Map
 
 
 //POINTER #163 @ $4C82A - STRING #163 @ $4DCBC
 
 #W16($4C82A)
 トリデのちず[END]
-Map of Toride
+Hideout Map
 
 
 //POINTER #164 @ $4C82C - STRING #164 @ $4DCBC
 
 #W16($4C82C)
 トリデのちず[END]
-Map of Toride
+Hideout Map
 
 
 //POINTER #165 @ $4C82E - STRING #165 @ $4DCBC
 
 #W16($4C82E)
 トリデのちず[END]
-Map of Toride
+Hideout Map
 
 
 //POINTER #166 @ $4C830 - STRING #166 @ $4DCC3
@@ -1786,344 +1786,429 @@ in the head with an axe!
 
 #W16($4C8E2)
 さすがのゴクウも ダメージをうけました。[END]
+As expected, Goku took some damage.
 
 
 //POINTER #256 @ $4C8E4 - STRING #256 @ $4E3AC
 
 #W16($4C8E4)
 むらびと「やっぱりダメだったか‥[LINE]
+Villager: "It didn't work, huh...??
 すいませんでした ウーロンさまっ！！！」[END]
+I'm so sorry, Oolong-sama!!!"
 
 
 //POINTER #257 @ $4C8E6 - STRING #257 @ $4E3D2
 
 #W16($4C8E6)
 ゴクウ「おーい！！ いるんだろー！？」[END]
+Goku: "Hey!! What gives!?"
 
 
 //POINTER #258 @ $4C8E8 - STRING #258 @ $4E3E6
 
 #W16($4C8E8)
 ゴクウ「なんで へんじしないんだー！？」[END]
+Goku: "Don't I even get a 'hello'!?"
 
 
 //POINTER #259 @ $4C8EA - STRING #259 @ $4E3FB
 
 #W16($4C8EA)
 すると なかから おびえたむらびとが[LINE]
+A frightened villager
 でてきました。[END]
-
+popped out from inside.
 
 //POINTER #260 @ $4C8EC - STRING #260 @ $4E416
 
 #W16($4C8EC)
 むらびと「すいません ウーロンさまっ！！！[LINE]
+Villager: "Forgive me, Oolong-sama!!!"
 くいものなら いくらでもさしあげますっ！ どうか[LINE]
+Give me any amount of food you see fit...
 ムスメだけは‥‥」[END]
-
+Just spare my daughter..."
 
 //POINTER #261 @ $4C8EE - STRING #261 @ $4E44F
 
 #W16($4C8EE)
 ゴクウ「ウーロンて だれだ？」[END]
+Goku: "Who's Oolong?"
 
 
 //POINTER #262 @ $4C8F0 - STRING #262 @ $4E45F
 
 #W16($4C8F0)
 むらびと「ウーロンというのは このあたりに[LINE]
+Villager: "Oolong is a monster that
 すんでいるようかいで すがたをかえられるジュツを[LINE]
+lives right here, and can shape-shift!
 もつ おそろしいヤツで ほんとうのすがたは[END]
+He's a terrifying guy, and his real form is
 
 
 //POINTER #263 @ $4C8F2 - STRING #263 @ $4E4A4
 
 #W16($4C8F2)
 だれも みたことがないのです。 こいつが[LINE]
+I haven't seen anyone else. That
 なかなかの スケベヤローで すでに なんにんもの[LINE]
+guy's a pervy brute. He's already 
 ムスメが さらわれておるのです。」[END]
+kidnapped everyone's daughters, you see."
 
 
 //POINTER #264 @ $4C8F4 - STRING #264 @ $4E4E4
 
 #W16($4C8F4)
 ゴクウ「オラが そいつを やっつけてやる！」[LINE]
+Goku: "I'll beat that guy up!"
 むらびと「たいじしてくれたなら ごちそうさせて[LINE]
+Villager: "We'd give you a huge feast 
 いただきます！！」[END]
+to repay you if you did!!"
 
 
 //POINTER #265 @ $4C8F6 - STRING #265 @ $4E51D
 
 #W16($4C8F6)
 ブルマ「だれも すんでないんじゃないの？」[END]
+Bulma: "Does anyone even live here?"
 
 
 //POINTER #266 @ $4C8F8 - STRING #266 @ $4E533
 
 #W16($4C8F8)
 ブルマ「いったい どうなっているのよ？」[END]
+Bulma: "What the heck's going on?"
 
 
 //POINTER #267 @ $4C8FA - STRING #267 @ $4E548
 
 #W16($4C8FA)
 ブルマ「そのウーロンを たいじしたら おれいを[LINE]
+Bulma: "If that Oolong guy's a big deal,
 いただけるかしら？」[END]
+should we go pay our respects?"
 
 
 //POINTER #268 @ $4C8FC - STRING #268 @ $4E56B
 
 #W16($4C8FC)
 この ばしょうせん。 ものすごいパワーをひめた[LINE]
+This palm fan... It has
 ウチワらしいのです。[END]
-
+an immense secret power.
 
 //POINTER #269 @ $4C8FE - STRING #269 @ $4E56B
 
 #W16($4C8FE)
 この ばしょうせん。 ものすごいパワーをひめた[LINE]
+This palm fan... It has
 ウチワらしいのです。[END]
+an immense secret power.
 
 
 //POINTER #270 @ $4C900 - STRING #270 @ $4E58E
 
 #W16($4C900)
 むらびと「たいじしてくれたなら ごちそうさせて[LINE]
+Villager: "We'd be forever grateful
 いただきます！！」[END]
+if you did!!"
 
 
 //POINTER #271 @ $4C902 - STRING #271 @ $4E5B0
 
 #W16($4C902)
 ウミガメ「だれも いないみたいですね。」[END]
-
+Turtle: "Looks like no one's here..."
 
 //POINTER #272 @ $4C904 - STRING #272 @ $4E5C5
 
 #W16($4C904)
 ウミガメ「なんなんですか！？」[END]
+Turtle: "Wh-what was that!?"
 
 
 //POINTER #273 @ $4C906 - STRING #273 @ $4E5D5
 
 #W16($4C906)
 ウミガメ「おそろしや おそろしや」[END]
+Turtle: "So scary... so scary..."
 
 
 //POINTER #274 @ $4C908 - STRING #274 @ $4E5E7
 
 #W16($4C908)
 ゴクウは ウーロンをまちぶせることにしました。[END]
+Goku decided to ambush Oolong!
 
 
 //POINTER #275 @ $4C90A - STRING #275 @ $4E5FF
 
 #W16($4C90A)
 おそろしい さんぞくのすがたをした ウーロンが[LINE]
+Oolong appeared in the form
 あらわれました。[END]
+of a fearsome bandit.
 
 
 //POINTER #276 @ $4C90C - STRING #276 @ $4E620
 
 #W16($4C90C)
 つよそうな さんぞくに ばけています。[END]
+He took the form of a strong-looking bandit.
 
 
 //POINTER #277 @ $4C90E - STRING #277 @ $4E634
 
 #W16($4C90E)
 おおきな カタナを もっています。[END]
+He's holding a huge katana.
 
 
 //POINTER #278 @ $4C910 - STRING #278 @ $4E646
 
 #W16($4C910)
 ウーロン「おまえ なにものだ！？ オレを[LINE]
+Oolong: "Who goes there!? You've
 おこらせると メチャメチャ こわいんだぞ！！」[END]
+ticked off the petrifying, super scary Oolong!!"
 
 
 //POINTER #279 @ $4C912 - STRING #279 @ $4E673
 
 #W16($4C912)
 ゴクウ「オラが おまえを やっつけてやる！」[END]
+Goku: "I'm here to beat you up!"
 
 
 //POINTER #280 @ $4C914 - STRING #280 @ $4E68A
 
 #W16($4C914)
 ブルマ「ソンくん はやく やっつけて！！！」[END]
+Bulma: "Goku, hurry up already!!!"
 
 
 //POINTER #281 @ $4C916 - STRING #281 @ $4E6A1
 
 #W16($4C916)
 ウーロン「ほお！？ プリプリギャル！！」[END]
+Oolong: "Oh ho! A lovely lass!"
 
 
 //POINTER #282 @ $4C918 - STRING #282 @ $4E6B6
 
 #W16($4C918)
 ゴクウ「スキ ありーっ！！」[END]
+Goku: "Ack! H-he likes you!!"
 
 
 //POINTER #283 @ $4C91A - STRING #283 @ $4E6C5
 
 #W16($4C91A)
 ゴクウは アッというまに ウーロンを[LINE]
+Before Goku could even react, Oolong
 ノックアウトしてしまいました。 そしてウーロンの[LINE]
+knocked him out. Once he did, Oolong became...
 しょうたいが‥‥ なんと コブタさんでした。[END]
+a little piggy?
 
 
 //POINTER #284 @ $4C91C - STRING #284 @ $4E708
 
 #W16($4C91C)
 ブルマ「こ このこが ウーロンのしょうたい！？」[END]
+Bulma: "I-is this really Oolong's true form!?"
 
 
 //POINTER #285 @ $4C91E - STRING #285 @ $4E708
 
 #W16($4C91E)
 ブルマ「こ このこが ウーロンのしょうたい！？」[END]
+Bulma: "I-is this really Oolong's true form!?"
 
 
 //POINTER #286 @ $4C920 - STRING #286 @ $4E721
 
 #W16($4C920)
 むらびと「やれやれ おこるきにもなれんわい‥‥[LINE]
+Villager: "Good grief... I can't even
 さあ やくそくの ごちそうです。」[END]
+stay mad. Well, here's that feast we promised."
 
 
 //POINTER #287 @ $4C922 - STRING #287 @ $4E74B
 
 #W16($4C922)
 ゴクウは たくさんごちそうをいただいて[LINE]
+Goku totally pigged out!
 たいりょくが マンタンになりました。 さらに[LINE]
+His strength is back to a full tank,
 たべものも もらいました。[END]
+and even so, he kept eating.
 
 
 //POINTER #288 @ $4C924 - STRING #288 @ $4E784
 
 #W16($4C924)
 そして ウーロンも ゴクウたちのたびの なかまに[LINE]
+After that, Oolong became a
 くわわりました。[END]
+friend of Goku's and joined them.
 
 
 //POINTER #289 @ $4C926 - STRING #289 @ $4E7A6
 
 #W16($4C926)
 それは ひとあおぎすれば おおかぜをおこし[LINE]
+It's an amazing fan: wave it once, and
 ふたあおぎすると らんうんをよび みあおぎすると[LINE]
+huge winds come, wave it twice for storm clouds,
 ごううをふらすという ものすごいウチワです。[END]
+and three times for torrential rain.
 
 
 //POINTER #290 @ $4C928 - STRING #290 @ $4E7A6
 
 #W16($4C928)
 それは ひとあおぎすれば おおかぜをおこし[LINE]
+It's an amazing fan: wave it once, and
 ふたあおぎすると らんうんをよび みあおぎすると[LINE]
+huge winds come, wave it twice for storm clouds,
 ごううをふらすという ものすごいウチワです。[END]
+and three times for torrential rain.
 
 
 //POINTER #291 @ $4C92A - STRING #291 @ $4E7EC
 
 #W16($4C92A)
 むらびと「なんと ウーロンのヤツは カッコだけで[LINE]
+Villager: "No way that's Oolong's true form...
 よわかったなんて‥[LINE]
+he's so weak and small.
 さあ やくそくの ごちそうです。」[END]
+Well, here's the feast we promised."
 
 
 //POINTER #292 @ $4C92C - STRING #292 @ $4E7EC
 
 #W16($4C92C)
 むらびと「なんと ウーロンのヤツは カッコだけで[LINE]
+Villager: "No way that's Oolong's true form...
 よわかったなんて‥[LINE]
+he's so weak and small.
 さあ やくそくの ごちそうです。」[END]
+Well, here's the feast we promised."
 
 
 //POINTER #293 @ $4C92E - STRING #293 @ $4E7EC
 
 #W16($4C92E)
 むらびと「なんと ウーロンのヤツは カッコだけで[LINE]
+Villager: "No way that's Oolong's true form...
 よわかったなんて‥[LINE]
+he's so weak and small.
 さあ やくそくの ごちそうです。」[END]
+Well, here's the feast we promised."
 
 
 //POINTER #294 @ $4C930 - STRING #294 @ $4E821
 
 #W16($4C930)
 むらびとの いえです。[END]
+It's a villager's house.
 
 
 //POINTER #295 @ $4C932 - STRING #295 @ $4E82D
 
 #W16($4C932)
 むらびと「ほんとうに ありがとうございました。」[END]
+Villager: "Really, our biggest thanks."
 
 
 //POINTER #296 @ $4C934 - STRING #296 @ $4E846
 
 #W16($4C934)
 ブルマ「さあ いそぐわよ。」[END]
+Bulma: "C'mon, let's hurry!"
 
 
 //POINTER #297 @ $4C936 - STRING #297 @ $4E855
 
 #W16($4C936)
 ウーロン「たびなんて めんどくさいな‥‥」[END]
+Oolong: "An adventure? Sounds like a lot of effort..."
 
 
 //POINTER #298 @ $4C938 - STRING #298 @ $4E86B
 
 #W16($4C938)
 ここは さんぞくたちの トリデです。[END]
+This is the Bandit's Hideout.
 
 
 //POINTER #299 @ $4C93A - STRING #299 @ $4E87E
 
 #W16($4C93A)
 いわをほって つくったトリデらしく[LINE]
+Looks like a sturdy fort,
 がんじょうそうです。[END]
+just built from carving into rock.
 
 
 //POINTER #300 @ $4C93C - STRING #300 @ $4E89B
 
 #W16($4C93C)
 よくみると いわのカゲに みはりがいます。[END]
+If you look closely, in the rock's shadows, there are guards.
 
 
 //POINTER #301 @ $4C93E - STRING #301 @ $4E8B1
 
 #W16($4C93E)
 おおきなクマの さんぞくです。 なんだか[LINE]
+There's a big bear bandit standing
 おなかを すかしているようです。[END]
+guard. He must be hungry.
 
 
 //POINTER #302 @ $4C940 - STRING #302 @ $4E8D7
 
 #W16($4C940)
 ゴクウが たべものをなげると みはりのさんぞくは[LINE]
+Goku tossed food at the guard, and
 むちゅうになって たべものに とびついて ほかの[LINE]
+the guard became totally obsessed with it,
 ことには まったく きずかないようです。[END]
+not even noticing anything else.
 
 
 //POINTER #303 @ $4C942 - STRING #303 @ $4E91E
 
 #W16($4C942)
 ブルマ「ちょっと やばいんじゃない。」[END]
+Bulma: "Kinda dangerous, isn't it?"
 
 
 //POINTER #304 @ $4C944 - STRING #304 @ $4E932
 
 #W16($4C944)
 ウミガメ「こいつらが わたくしの にょいぼうを[LINE]
+Turtle: "Say, these are the
 うばったんです！」[END]
+ones that stole my Power Pole!"
 
 
 //POINTER #305 @ $4C946 - STRING #305 @ $4E954
 
 #W16($4C946)
 ウーロン「ジョウダンじゃないぜ！！ あのトリデの[LINE]
+Oolong: "You've gotta be kidding! That
 なかは めいろになってるんだぞ。 さんぞくに[LINE]
+hideout's a real maze. The bandits
 つかまって くわれちまうにきまってらーっ！！」[END]
 
 
