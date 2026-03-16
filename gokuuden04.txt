@@ -792,207 +792,243 @@ You don't have enough Killer Technique points!
 
 #W16($4C7DA)
 「ちがうじゃろ！[LINE]
+"That's nonsense!/Totally wrong!
 なにを きいておったんじゃ！」[END]
+What were you even listening to!?"
 
 
 //POINTER #124 @ $4C7DC - STRING #124 @ $4DA41
 
 #W16($4C7DC)
 「きをつけて いくんじゃぞ！」[END]
+"Careful, there!"
 
 
 //POINTER #125 @ $4C7DE - STRING #125 @ $4DA51
 
 #W16($4C7DE)
 カメのこうらを てにいれた！[END]
+got a Turtle Shell!
 
 
 //POINTER #126 @ $4C7E0 - STRING #126 @ $4DA51
 
 #W16($4C7E0)
 カメのこうらを てにいれた！[END]
-
+got a Turtle Shell!
 
 //POINTER #127 @ $4C7E2 - STRING #127 @ $4DA60
 
 #W16($4C7E2)
 ハズレ！！[END]
-
+FAIL!!/LOSER!!
 
 //POINTER #128 @ $4C7E4 - STRING #128 @ $4DA66
 
 #W16($4C7E4)
 ねずみを てにいれた！[END]
+got a Mouse!
 
 
 //POINTER #129 @ $4C7E6 - STRING #129 @ $4DA72
 
 #W16($4C7E6)
 エアカーを てにいれた！[END]
+got the Air Car!
 
 
 //POINTER #130 @ $4C7E8 - STRING #130 @ $4DA7F
 
 #W16($4C7E8)
 ひこうきを てにいれた！[END]
+got the Airplane!
 
 
 //POINTER #131 @ $4C7EA - STRING #131 @ $4DA8C
 
 #W16($4C7EA)
 ゴクウ「ようし！ がんばるぞ！！」[END]
+Goku: "Alright! I'll do my best!"
 
 
 //POINTER #132 @ $4C7EC - STRING #132 @ $4DA9E
 
 #W16($4C7EC)
 そのまま！[END]
+(left it) just like that!
 
 
 //POINTER #133 @ $4C7EE - STRING #133 @ $4DAA4
 
 #W16($4C7EE)
 1コマ もどる！[END]
+back one chapter/panel!
+
 
 
 //POINTER #134 @ $4C7F0 - STRING #134 @ $4DAAD
 
 #W16($4C7F0)
 1コマ すすむ！[END]
+onto next chapter/panel!
 
 
 //POINTER #135 @ $4C7F2 - STRING #135 @ $4DAB6
 
 #W16($4C7F2)
 2コマ もどる！[END]
+back two chapters/panels!
 
 
 //POINTER #136 @ $4C7F4 - STRING #136 @ $4DABF
 
 #W16($4C7F4)
 2コマ すすむ！[END]
-
+two chapters/panels ahead!
 
 //POINTER #137 @ $4C7F6 - STRING #137 @ $4DAC8
 
 #W16($4C7F6)
 ゴクウ「やった！ ちょうじょうだ！」[END]
+Goku: "Yippie! Made it to the top!"
 
 
 //POINTER #138 @ $4C7F8 - STRING #138 @ $4DADB
 
 #W16($4C7F8)
 ゴクウ「オラ もう くたくただ！」[LINE]
+Goku: "Oof! I'm beat...!"
 ゴクウは カリンとうから おちてしまいました。[END]
-
+Goku fell from Korin's tower.
 
 //POINTER #139 @ $4C7FA - STRING #139 @ $4DB05
 
 #W16($4C7FA)
 ゴクウは しんでしまいました。[END]
+Goku has died.
 
 
 //POINTER #140 @ $4C7FC - STRING #140 @ $4DB15
 
 #W16($4C7FC)
 たのむぞ！ キントウン！[END]
+Let's do it! Kinto-un!!
 
 
 //POINTER #141 @ $4C7FE - STRING #141 @ $4DB22
 
 #W16($4C7FE)
 いけー！ こガメラ！！[END]
+Go, Baby Gamera!!
 
 
 //POINTER #142 @ $4C800 - STRING #142 @ $4DB2E
 
 #W16($4C800)
 ひこうきで レッツゴー！[END]
+Let's soar by plane!
 
 
 //POINTER #143 @ $4C802 - STRING #143 @ $4DB3B
 
 #W16($4C802)
 ゴクウ「さあ ついたぞ！」[END]
+Goku: "Welp! Made it!"
 
 
 //POINTER #144 @ $4C804 - STRING #144 @ $4DB49
 
 #W16($4C804)
 ゴクウ「サンキュー！ キントウン」[END]
+Goku: "Thanks! Kinto-un!"
 
 
 //POINTER #145 @ $4C806 - STRING #145 @ $4DB5B
 
 #W16($4C806)
 かめせんにん「ゴクウ！ ピチピチギャルじゃぞ！」[END]
+Master Roshi: "Goku! (It's) Pichi-Pichi girls!"
 
 
 //POINTER #146 @ $4C808 - STRING #146 @ $4DB74
 
 #W16($4C808)
 ランチさんを みつけた！[END]
+found Launch!
 
 
 //POINTER #147 @ $4C80A - STRING #147 @ $4DB81
 
 #W16($4C80A)
 ‥‥‥‥‥を みつけた！[END]
+... was found!
 
 
 //POINTER #148 @ $4C80C - STRING #148 @ $4DB8E
 
 #W16($4C80C)
 かめせんにん「ゴクウ！ パンティ たのんだぞ！」[END]
+Master Roshi: "Goku! I expected panties, you know!"
 
 
 //POINTER #149 @ $4C80E - STRING #149 @ $4DBA7
 
 #W16($4C80E)
 ギャルの パンティを てにいれた！[END]
+got Girl's Panties!
 
 
 //POINTER #150 @ $4C810 - STRING #150 @ $4DBB9
 
 #W16($4C810)
 ブーギャルのパンティを てにいれた！[END]
+got the chubby girl's Panties!
 
 
 //POINTER #151 @ $4C812 - STRING #151 @ $4DBCC
 
 #W16($4C812)
 かめせんにん「まあ よかろう。」[END]
+Master Roshi: "...Well, I guess that's fine."
+
 
 
 //POINTER #152 @ $4C814 - STRING #152 @ $4DBDD
 
 #W16($4C814)
 ゴクウ「ようし！ こんなカベ ぶっこわして[LINE]
+Goku: "Nice! Let's break
 やる！」[END]
+down this wall!"
 
 
 //POINTER #153 @ $4C816 - STRING #153 @ $4DBF8
 
 #W16($4C816)
 ゴクウ「どうだ！！」[END]
+Goku: "Woah!!"
 
 
 //POINTER #154 @ $4C818 - STRING #154 @ $4DC03
 
 #W16($4C818)
 ゴクウ「かたくて だめだ！」[END]
+Goku: "It's too tough! It won't work!"
+
 
 
 //POINTER #155 @ $4C81A - STRING #155 @ $4DC12
 
 #W16($4C81A)
 ゴクウ「やった！ こわれたぞ！！」[END]
+Goku: "Awesome! It broke!"
 
 
 //POINTER #156 @ $4C81C - STRING #156 @ $4DC24
 
 #W16($4C81C)
 ゴクウの せいめいりょくが かいふくするぞ！[END]
+Goku recovered HP!
 
 
 //POINTER #157 @ $4C81E - STRING #157 @ $4DC3B
@@ -1000,149 +1036,177 @@ You don't have enough Killer Technique points!
 #W16($4C81E)
      [LINE]
 レベルポイント・・[END]
+Level Points...
 
 
 //POINTER #158 @ $4C820 - STRING #158 @ $4DC4B
 
 #W16($4C820)
 まだ レベルポイントが のこっているぞ！[LINE]
+You still have Level Points!
  レベルポイント・・[END]
+Level Points...
 
 
 //POINTER #159 @ $4C822 - STRING #159 @ $4DC6B
 
 #W16($4C822)
 ぎゅうまおう「おめえの もってる カードさ[LINE]
+Ox-King: "Let's trade
 ぜんぶ こうかんすっぺ！」[END]
+all those cards of yours!"
 
 
 //POINTER #160 @ $4C824 - STRING #160 @ $4DC8F
 
 #W16($4C824)
 ドラゴンボールの あるばしょが わかるぞ！[END]
+(char/they/you) know where the Dragon Ball is!
 
 
 //POINTER #161 @ $4C826 - STRING #161 @ $4DCA5
 
 #W16($4C826)
 ゴクウの わざポイントが かいふくしました。[END]
+Goku's recovered Skill Points.
 
 
 //POINTER #162 @ $4C828 - STRING #162 @ $4DCBC
 
 #W16($4C828)
 トリデのちず[END]
+Map of Toride
 
 
 //POINTER #163 @ $4C82A - STRING #163 @ $4DCBC
 
 #W16($4C82A)
 トリデのちず[END]
+Map of Toride
 
 
 //POINTER #164 @ $4C82C - STRING #164 @ $4DCBC
 
 #W16($4C82C)
 トリデのちず[END]
+Map of Toride
 
 
 //POINTER #165 @ $4C82E - STRING #165 @ $4DCBC
 
 #W16($4C82E)
 トリデのちず[END]
+Map of Toride
 
 
 //POINTER #166 @ $4C830 - STRING #166 @ $4DCC3
 
 #W16($4C830)
 しろのちず[END]
+White('s) Map
 
 
 //POINTER #167 @ $4C832 - STRING #167 @ $4DCC9
 
 #W16($4C832)
 ゴクウの せいめいりょくが かいふくしました。[END]
+Goku recovered HP.
 
 
 //POINTER #168 @ $4C834 - STRING #168 @ $4DCE1
 
 #W16($4C834)
 ゴクウの せいめいりょくが かなり かいふく[LINE]
+Goku's HP recovered
 しました。[END]
+a lot.
 
 
 //POINTER #169 @ $4C836 - STRING #169 @ $4DCFE
 
 #W16($4C836)
 ゴクウの せいめいりょくが かんぜんに かいふく[LINE]
+Goku's HP recovered
 しました。[END]
+completely.
 
 
 //POINTER #170 @ $4C838 - STRING #170 @ $4DD1D
 
 #W16($4C838)
 カメのこうらを せおいました。[END]
+put on the Turtle Shell.
 
 
 //POINTER #171 @ $4C83A - STRING #171 @ $4DD2D
 
 #W16($4C83A)
-カメの こうらを ぬぎました。[END]
+カメの こうらを ぬぎました。[END
+took off the Turtle Shell.
 
 
 //POINTER #172 @ $4C83C - STRING #172 @ $4DD3D
 
 #W16($4C83C)
 おもいどうぎを きました。[END]
+put on the Weighted Training Clothes.
 
 
 //POINTER #173 @ $4C83E - STRING #173 @ $4DD4B
 
 #W16($4C83E)
 おもいどうぎを ぬぎました。[END]
+took off the Weighted Training Clothes.
 
 
 //POINTER #174 @ $4C840 - STRING #174 @ $4DD5A
 
 #W16($4C840)
 かめせんにん「よし！ まずは ランニングじゃ。」[END]
+Master Roshi: "Okay then! First up, running."
 
 
 //POINTER #175 @ $4C842 - STRING #175 @ $4DD73
 
 #W16($4C842)
 ポポ「どうだ！」[END]
+Mr. Popo: "My!"
 
 
 //POINTER #176 @ $4C844 - STRING #176 @ $4DD7C
 
 #W16($4C844)
-かめせんにん「わしよりも おおきいか おなじ[LINE]
-ホシのカードを だすんじゃ！」[END]
+かめせんにん「わしよりも おおきなホシのカードを[LINE]
+Master Roshi: "You've got a Star Card even
+だすんじゃ！ なまけるでないぞ！」[END]
+bigger than mine! Don't slack off now!" (?)
 
 
 //POINTER #177 @ $4C846 - STRING #177 @ $4DDA3
 
 #W16($4C846)
 かめせんにん「まあ よかろう。」[END]
+Master Roshi: "...Well, I guess that's fine."
 
 
 //POINTER #178 @ $4C848 - STRING #178 @ $4DDB4
 
 #W16($4C848)
 おなじものを だす！ ついて こい！[END]
-
+(I'll/command) Do the same thing! C'mon!
 
 //POINTER #179 @ $4C84A - STRING #179 @ $4DDB4
 
 #W16($4C84A)
 おなじものを だす！ ついて こい！[END]
+Do the same thing! C'mon!
 
 
 //POINTER #180 @ $4C84C - STRING #180 @ $4DDC7
 
 #W16($4C84C)
 カリン「わしよりも おおきい かんじのカードを[LINE]
+Korin: "
 だすんじゃ！[END]
 
 
