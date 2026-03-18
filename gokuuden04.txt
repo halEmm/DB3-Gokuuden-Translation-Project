@@ -2181,7 +2181,7 @@ guard. He must be hungry.
 ゴクウが たべものをなげると みはりのさんぞくは[LINE]
 Goku tossed food at the guard, and
 むちゅうになって たべものに とびついて ほかの[LINE]
-the guard became totally obsessed with it,
+the bandit became totally obsessed with it,
 ことには まったく きずかないようです。[END]
 not even noticing anything else.
 
@@ -2210,168 +2210,200 @@ Oolong: "You've gotta be kidding! That
 なかは めいろになってるんだぞ。 さんぞくに[LINE]
 hideout's a real maze. The bandits
 つかまって くわれちまうにきまってらーっ！！」[END]
-
+are gonna catch us!!"
 
 //POINTER #306 @ $4C948 - STRING #306 @ $4E99C
 
 #W16($4C948)
 ブルマ「ねぇ たべものがあったら あのみはりの[LINE]
+Bulma: "Hey, if there's food,
 ちゅういをひくことが できるんじゃない！？」[END]
+won't the guard not notice us?"
 
 
 //POINTER #307 @ $4C94A - STRING #307 @ $4E9CB
 
 #W16($4C94A)
 さんぞく「コラーッ！！ きさまらっ！ ここを[LINE]
+Bandit: "Hey!! Dorkwad!
 どこだと おもってやがる。」[LINE]
+Where'dya think you're going?"
 さんぞくに みつかってしまいました。[END]
+The guard spotted you.
 
 
 //POINTER #308 @ $4C94C - STRING #308 @ $4EA04
 
 #W16($4C94C)
 みるからに ちからがあって つよそうです。[END]
+Just from looking at him, he seems strong.
 
 
 //POINTER #309 @ $4C94E - STRING #309 @ $4EA1A
 
 #W16($4C94E)
 さんぞく「フン かくごは いいか！」[END]
+Bandit: "Heh, you're pretty tough!"
 
 
 //POINTER #310 @ $4C950 - STRING #310 @ $4EA2D
 
 #W16($4C950)
 さんぞくがいるので なかへは はいれません。[END]
+There's a bandit, so you can't go inside.
 
 
 //POINTER #311 @ $4C952 - STRING #311 @ $4EA44
 
 #W16($4C952)
 もう あとには ひけません。[END]
+You don't even feel daunted.
 
 
 //POINTER #312 @ $4C954 - STRING #312 @ $4EA53
 
 #W16($4C954)
 ウーロン「に にげようぜ！！」[END]
+Oolong: "L-let's get out of here!!"
 
 
 //POINTER #313 @ $4C956 - STRING #313 @ $4EA63
 
 #W16($4C956)
 ゴクウとさんぞくの たいけつです。[END]
+It's the showdown between Goku and the bandit!
 
 
 //POINTER #314 @ $4C958 - STRING #314 @ $4EA75
 
 #W16($4C958)
 さんぞくは なにかを もっているようです。[END]
+The bandit looks like he's holding something.
 
 
 //POINTER #315 @ $4C95A - STRING #315 @ $4EA8B
 
 #W16($4C95A)
 トリデのちずを もっています。[END]
+Holding the Hideout Map.
 
 
 //POINTER #316 @ $4C95C - STRING #316 @ $4EA9B
 
 #W16($4C95C)
 トリデのちずを てにいれました。[END]
+Got the Hideout Map.
 
 
 //POINTER #317 @ $4C95E - STRING #317 @ $4EAAC
 
 #W16($4C95E)
 ドアが あります。[END]
+There's a door.
 
 
 //POINTER #318 @ $4C960 - STRING #318 @ $4EAB6
 
 #W16($4C960)
 さんぞくの トリデのなかです。[END]
+Inside the Bandit's Hideout. 
 
 
 //POINTER #319 @ $4C962 - STRING #319 @ $4EAC6
 
 #W16($4C962)
 なかに はいれそうです。[END]
+Looks like you can go inside.
 
 
 //POINTER #320 @ $4C964 - STRING #320 @ $4EAD3
 
 #W16($4C964)
 カギが かかっていて はいれません。[END]
+The key can't go here.
 
 
 //POINTER #321 @ $4C966 - STRING #321 @ $4EAE6
 
 #W16($4C966)
 ドアが あきました。[END]
+The door opened.
 
 
 //POINTER #322 @ $4C968 - STRING #322 @ $4EAF1
 
 #W16($4C968)
 ゴクウ「いってーっ！ こっちには いけねえよ！」[LINE]
+Goku: "Waa! I can't go here!"
 ゴクウは カベにぶつかって ダメージをうけた。[END]
+Goku ran into the wall and took damage.
 
 
 //POINTER #323 @ $4C96A - STRING #323 @ $4EB22
 
 #W16($4C96A)
 へやのなかに さんぞくがいました。[END]
+There's a guard(s? context) in the room.
 
 
 //POINTER #324 @ $4C96C - STRING #324 @ $4EB34
 
 #W16($4C96C)
 トリデのなかの へやです。[END]
+It's a room inside the hideout.
 
 
 //POINTER #325 @ $4C96E - STRING #325 @ $4EB42
 
 #W16($4C96E)
 さんぞく「きさま いきてかえれるとおもうなよ！」[END]
+Bandit: "You! Don't think you'll get away with it!"
 
 
 //POINTER #326 @ $4C970 - STRING #326 @ $4EB5B
 
 #W16($4C970)
 へやの カギをもっています。[END]
+holding the room key.
 
 
 //POINTER #327 @ $4C972 - STRING #327 @ $4EB6A
 
 #W16($4C972)
 へやのカギを てにいれました。[END]
+got the room key.
 
 
 //POINTER #328 @ $4C974 - STRING #328 @ $4EB7A
 
 #W16($4C974)
 さんぞく「ガハハハッ オレさまが あいてだ！！」[END]
+Bandit: "Gwahaha! You'll be up against me!!"
 
 
 //POINTER #329 @ $4C976 - STRING #329 @ $4EB93
 
 #W16($4C976)
 なんと てんじょうに もう1ぴきの さんぞくが[LINE]
+Surprisingly, there was one
 ひそんでいました。[LINE]
+more bandit hiding in the ceiling!
 さんぞく「よくぞ みやぶったな！！」[END]
+Bandit: "Nice job spottin' me!!"
 
 
 //POINTER #330 @ $4C978 - STRING #330 @ $4EBC8
 
 #W16($4C978)
 さんぞく「おまえは もう おわりだ！！」[END]
+Bandit: "You're mincemeat!!"
 
 
 //POINTER #331 @ $4C97A - STRING #331 @ $4EBDD
 
 #W16($4C97A)
 さんぞく「よくぞ みやぶったな！！」[END]
+
 
 
 //POINTER #332 @ $4C97C - STRING #332 @ $4EBF0
