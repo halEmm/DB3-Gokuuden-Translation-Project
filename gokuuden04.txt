@@ -2271,7 +2271,7 @@ Oolong: "L-let's get out of here!!"
 
 #W16($4C956)
 ゴクウとさんぞくの たいけつです。[END]
-It's the showdown between Goku and the bandit!
+It's a showdown between Goku and the bandit!
 
 
 //POINTER #314 @ $4C958 - STRING #314 @ $4EA75
@@ -2403,106 +2403,125 @@ Bandit: "You're mincemeat!!"
 
 #W16($4C97A)
 さんぞく「よくぞ みやぶったな！！」[END]
-
+Bandit: "You saw right through it!!"
 
 
 //POINTER #332 @ $4C97C - STRING #332 @ $4EBF0
 
 #W16($4C97C)
 さんぞく「どうだ！！ ざまあみろ！！」[END]
+Bandit: "How 'bout that!! Serves ya right!!"
 
 
 //POINTER #333 @ $4C97E - STRING #333 @ $4EC04
 
 #W16($4C97E)
 てんじょうから いきなり もう1ぴきのさんぞくが[LINE]
+Suddenly, another bandit
 おそいかかってきた！ ゴクウは フイをつかれて[LINE]
+dropped from the ceiling!
 ダメージをうけた！[END]
+Goku took damage!
 
 
 //POINTER #334 @ $4C980 - STRING #334 @ $4EC3F
 
 #W16($4C980)
 さんぞくのボスの へやです。[END]
+It's the Bandit Boss's Room
 
 
 //POINTER #335 @ $4C982 - STRING #335 @ $4EC4E
 
 #W16($4C982)
 さすがに ほかのれんちゅうとはちがって[LINE]
+Naturally, the rest
 てごわそうです。[END]
+of the lot seemed scared.
 
 
 //POINTER #336 @ $4C984 - STRING #336 @ $4EC6B
 
 #W16($4C984)
 たべものを もっています。[END]
+Holding food.
 
 
 //POINTER #337 @ $4C986 - STRING #337 @ $4EC79
 
 #W16($4C986)
 テーブルのうえに ぼうがおいてあります。[END]
+Set the stick on the table.
 
 
 //POINTER #338 @ $4C988 - STRING #338 @ $4EC8E
 
 #W16($4C988)
 にょいぼうです。[END]
+It's the Power Pole.
 
 
 //POINTER #339 @ $4C98A - STRING #339 @ $4EC97
 
 #W16($4C98A)
 ただの ぼうのようです。[END]
+It's like a plain ol' stick.
 
 
 //POINTER #340 @ $4C98C - STRING #340 @ $4ECA4
 
 #W16($4C98C)
 たべものを てにいれました。[END]
+Got food.
 
 
 //POINTER #341 @ $4C98E - STRING #341 @ $4ECB3
 
 #W16($4C98E)
 さんぞくのボスがいるので とれません。[END]
+The Bandit Boss is there, so you can't get it.
 
 
 //POINTER #342 @ $4C990 - STRING #342 @ $4ECC7
 
 #W16($4C990)
 にょいぼうを てにいれました。[END]
+Got the Power Pole.
 
 
 //POINTER #343 @ $4C992 - STRING #343 @ $4ECD7
 
 #W16($4C992)
 ぼうを てにいれました。[END]
+Got the stick.
 
 
 //POINTER #344 @ $4C994 - STRING #344 @ $4ECE4
 
 #W16($4C994)
 ボス「よくきたな！！ いいコンジョウしてるぜ！」[END]
+Boss: "So ya came!! Now that's gutsy!"
 
 
 //POINTER #345 @ $4C996 - STRING #345 @ $4ECFD
 
 #W16($4C996)
 ゴクウとさんぞくのボスの たいけつです。[END]
+It's a showdown between Goku and the bandit!
 
 
 //POINTER #346 @ $4C998 - STRING #346 @ $4ED12
 
 #W16($4C998)
 ゴクウは しんでしまいました。[END]
+Goku has died.
 
 
 //POINTER #347 @ $4C99A - STRING #347 @ $4ED22
 
 #W16($4C99A)
 ここは サバクです。[END]
+This is the desert.
 
 
 //POINTER #348 @ $4C99C - STRING #348 @ $4ED2D
