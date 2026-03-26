@@ -2528,238 +2528,286 @@ This is the desert.
 
 #W16($4C99C)
 ほとんどサバクで まわりには なにもありません。[END]
+It really is a desert... there's nothing around for miles.
 
 
 //POINTER #349 @ $4C99E - STRING #349 @ $4ED46
 
 #W16($4C99E)
 たいようが ギラギラかがやいています。[END]
+The sun is totally dazzling.
 
 
 //POINTER #350 @ $4C9A0 - STRING #350 @ $4ED5A
 
 #W16($4C9A0)
 ブルマ「し しぬー！！ ハア ハア‥」[LINE]
+Bulma: "D-die!! Hah... hah..."
 ゴクウ「だらしないなー」[END]
+Goku: "You're so sloppy..."
 
 
 //POINTER #351 @ $4C9A2 - STRING #351 @ $4ED7B
 
 #W16($4C9A2)
 ウミガメ「なんでわたしが こんなサバクを[LINE]
+Turtle: "Why would you ever
 あるかにゃならんのです！！」[END]
+take me to the desert!?"
 
 
 //POINTER #352 @ $4C9A4 - STRING #352 @ $4ED9F
 
 #W16($4C9A4)
 ウーロン「ひい ひい。」[END]
+Oolong: "*whistle-whistle*"
 
 
 //POINTER #353 @ $4C9A6 - STRING #353 @ $4EDAC
 
 #W16($4C9A6)
 サバクのむこうから とつじょ ひとかげが[LINE]
+All of a sudden, some shadow
 あらわれました。[END]
+appeared out of the desert!
 
 
 //POINTER #354 @ $4C9A8 - STRING #354 @ $4EDCA
 
 #W16($4C9A8)
 それは ひとりのオトコとネコのようです。[END]
+It looks like one guy and a cat.
 
 
 //POINTER #355 @ $4C9AA - STRING #355 @ $4EDDF
 
 #W16($4C9AA)
 どうやら とうぞくのようです。[END]
+They look like some kind of thieves.
 
 
 //POINTER #356 @ $4C9AC - STRING #356 @ $4EDEF
 
 #W16($4C9AC)
 このオトコの こぶんのようです。[END]
+It's like this guy's henchman or something.
 
 
 //POINTER #357 @ $4C9AE - STRING #357 @ $4EE00
 
 #W16($4C9AE)
 オトコ「よう オレは このコウヤをねじろにする[LINE]
+Man: "The Hyena Who Made the Desert
 ハイエナ‥ ヤムチャってもんだ。 もってるものを[LINE]
+His Stronghold... I'm Yamcha. 
 よこすんだ！」[END]
+Gimme all your stuff!"
 
 
 //POINTER #358 @ $4C9B0 - STRING #358 @ $4EE39
 
 #W16($4C9B0)
 ネコ「ボクは プーアルだぞ。」[END]
+Cat: "I'm Puar!"
 
 
 //POINTER #359 @ $4C9B2 - STRING #359 @ $4EE49
 
 #W16($4C9B2)
 ウーロン「プーアル‥？ おまえ なきむしプーアル[LINE]
+Oolong: "Puar...? Hey, aren't
 じゃないのかっ！？」[END]
+you Crybaby Puar!?"
 
 
 //POINTER #360 @ $4C9B4 - STRING #360 @ $4EE6D
 
 #W16($4C9B4)
 プーアル「ウ ウーロン！？ なんぶへんしん[LINE]
+Puar: "O-Oolong!? The one who
 ようちえんに かよっていたころ いつも ボクを[LINE]
+always bullied me at the
 いじめていた‥[END]
+Transformation Kindergarten!?"
 
 
 //POINTER #361 @ $4C9B6 - STRING #361 @ $4EEA3
 
 #W16($4C9B6)
 ヤムチャ「はやく もってるものを よこせ！」[END]
+Yamcha: "Hurry up and hand it over!"
 
 
 //POINTER #362 @ $4C9B8 - STRING #362 @ $4EEBA
 
 #W16($4C9B8)
 プーアル「よこせ！！」[END]
+Puar: "Yeah, hand it over!!"
 
 
 //POINTER #363 @ $4C9BA - STRING #363 @ $4EEC6
 
 #W16($4C9BA)
 プーアル「スケベ ウーロンなんか キライだー！」[END]
+Puar: "I hate that pervy Oolong!"
 
 
 //POINTER #364 @ $4C9BC - STRING #364 @ $4EEDF
 
 #W16($4C9BC)
 ブルマ「あーら わりと いいオトコじゃない！？」[END]
+Bulma: "Hey... that's a... weirdly cute guy..."
 
 
 //POINTER #365 @ $4C9BE - STRING #365 @ $4EEF8
 
 #W16($4C9BE)
 ヤムチャ「カーッ オンナも いるのか‥‥」[END]
+Yamcha: "Tch, a girl, too?"
 
 
 //POINTER #366 @ $4C9C0 - STRING #366 @ $4EF0E
 
 #W16($4C9C0)
 ヤムチャは オンナによわいのです！[END]
+Yamcha's afraid of women!
 
 
 //POINTER #367 @ $4C9C2 - STRING #367 @ $4EF20
 
 #W16($4C9C2)
 ウミガメ「くわばら くわばら！！」[END]
+Turtle: "Kuwabara, Kuwabara... God help me!!"
 
 
 //POINTER #368 @ $4C9C4 - STRING #368 @ $4EF32
 
 #W16($4C9C4)
 ウーロン「いやな よかんがするな。」[END]
+Oolong: "Well, I've got a hunch."
 
 
 //POINTER #369 @ $4C9C6 - STRING #369 @ $4EF45
 
 #W16($4C9C6)
 ウーロン「あ あのヤロー つまんないこと[LINE]
+Oolong: "Ah, that guy! 
 おもいだしやがって‥‥」[END]
+Always thinking about boring junk!"
 
 
 //POINTER #370 @ $4C9C8 - STRING #370 @ $4EF67
 
 #W16($4C9C8)
 なかなか つよそうなヤツです。[END]
+This guy looks pretty strong.
 
 
 //POINTER #371 @ $4C9CA - STRING #371 @ $4EF77
 
 #W16($4C9CA)
 なんという どうぶつなのか よくわかりません。[END]
+You can't really tell what kind of animal that is.
 
 
 //POINTER #372 @ $4C9CC - STRING #372 @ $4EF8F
 
 #W16($4C9CC)
 ゴクウとヤムチャの たいけつです。[END]
+It's a showdown between Goku and Yamcha!
 
 
 //POINTER #373 @ $4C9CE - STRING #373 @ $4EFA1
 
 #W16($4C9CE)
 ヤムチャ「こ このヤロー！ おぼえてやがれ‥」[END]
+Yamcha: "Th-this punk! I won't forget that..."
 
 
 //POINTER #374 @ $4C9D0 - STRING #374 @ $4EFB9
 
 #W16($4C9D0)
 こうやのとうぞくヤムチャは たいさんしました。[END]
+Desert Bandit Yamcha fled.
 
 
 //POINTER #375 @ $4C9D2 - STRING #375 @ $4EFD1
 
 #W16($4C9D2)
 ヤムチャにうばわれたものを とりかえしました。[END]
+Yamcha made up for the stolen items.
 
 
 //POINTER #376 @ $4C9D4 - STRING #376 @ $4EFE9
 
 #W16($4C9D4)
 ゴクウは もちものをぜんぶ うばわれてしまった。[END]
+All of Goku's held items were stolen!
 
 
 //POINTER #377 @ $4C9D6 - STRING #377 @ $4F002
 
 #W16($4C9D6)
 ブルマ「カレ またくるかしら‥‥」[END]
+Bulma: "I wonder if he'll come back..."
 
 
 //POINTER #378 @ $4C9D8 - STRING #378 @ $4F014
 
 #W16($4C9D8)
 ウミガメ「よかったですね。」[END]
+Turtle: "That was good, wasn't it?"
 
 
 //POINTER #379 @ $4C9DA - STRING #379 @ $4F023
 
 #W16($4C9DA)
 ウーロン「おまえ ほんとうに つよいんだな！」[END]
+Oolong: "You're real strong!"
 
 
 //POINTER #380 @ $4C9DC - STRING #380 @ $4F03B
 
 #W16($4C9DC)
 ブルマ「なにもかも とられちゃったじゃない！」[END]
+Bulma: "They took everything, didn't they!?"
 
 
 //POINTER #381 @ $4C9DE - STRING #381 @ $4F053
 
 #W16($4C9DE)
 ウミガメ「だから はやくウミへ つれてって‥‥」[END]
+Turtle: "Let's just hurry back to the sea..."
 
 
 //POINTER #382 @ $4C9E0 - STRING #382 @ $4F06C
 
 #W16($4C9E0)
 ウーロン「もう ダメだな。」[END]
+Oolong: "No use now, huh."
 
 
 //POINTER #383 @ $4C9E2 - STRING #383 @ $4F07B
 
 #W16($4C9E2)
 またまた ヤムチャとプーアルが やってきました。[END]
+Yamcha and Puar are back yet again.
 
 
 //POINTER #384 @ $4C9E4 - STRING #384 @ $4F094
 
 #W16($4C9E4)
 ヤムチャ「また いたいめに あいたいのか！[LINE]
+Yamcha: "You wanna get roughed up again!?
 もっているものを よこせ！！」[END]
+Then hand it over!"
 
 
 //POINTER #385 @ $4C9E6 - STRING #385 @ $4F0BA
 
 #W16($4C9E6)
 ウーロン「あのヤロー どうきゅうせいのくせに‥」[END]
+Oolong: "This jerk, and he's just as old as us..."
 
 
 //POINTER #386 @ $4C9E8 - STRING #386 @ $4F0D3
