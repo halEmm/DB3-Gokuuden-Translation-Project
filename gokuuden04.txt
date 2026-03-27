@@ -2814,25 +2814,30 @@ Oolong: "This jerk, and he's just as old as us..."
 
 #W16($4C9E8)
 ゴクウは またもちものを うばわれてしまった。[END]
+Goku had his held items stolen again.
 
 
 //POINTER #387 @ $4C9EA - STRING #387 @ $4F0EB
 
 #W16($4C9EA)
 パンツをぬすんで ようちえんを おいだされた[LINE]
+He's that pervert who got kicked
 エッチなヤツです。」[END]
+out of kindergarten for stealing panties!
 
 
 //POINTER #388 @ $4C9EC - STRING #388 @ $4F10D
 
 #W16($4C9EC)
 ここは にしのみやこです。[END]
+This is West City.
 
 
 //POINTER #389 @ $4C9EE - STRING #389 @ $4F11B
 
 #W16($4C9EE)
 ひとや くるまがあふれています。[END]
+It's bustling with people and cars.
 
 
 //POINTER #390 @ $4C9F0 - STRING #390 @ $4F12C
