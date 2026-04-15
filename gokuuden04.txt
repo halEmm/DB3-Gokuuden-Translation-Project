@@ -2844,219 +2844,273 @@ It's bustling with people and cars.
 
 #W16($4C9F0)
 おおきな たてものが たくさんあります。[END]
+There are many, many huge buildings.
 
 
 //POINTER #391 @ $4C9F2 - STRING #391 @ $4F141
 
 #W16($4C9F2)
 みんな なにかに おびえているようです。[END]
+Everyone seems to be in a buzz.
 
 
 //POINTER #392 @ $4C9F4 - STRING #392 @ $4F156
 
 #W16($4C9F4)
 つうこうにん「じつは すうじつまえに ウサギだん[LINE]
+Passerby: "Actually, a few days ago,
 というれんちゅうが やってきて にしのみやこで[LINE]
+the Rabbit Mob rolled into town
 あくじを はたらいているんです。[END]
+and have been up to no good.
 
 
 //POINTER #393 @ $4C9F6 - STRING #393 @ $4F198
 
 #W16($4C9F6)
 カプセルコーポレーションのしゃちょうふうふも[LINE]
+The couple that runs the Capsule Corporation
 ウサギだんに つかまったとか‥‥」[END]
+got, uh, taken by the Mob..."
 
 
 //POINTER #394 @ $4C9F8 - STRING #394 @ $4F1C1
 
 #W16($4C9F8)
 ブルマ「えーっ！！ とうさんと かあさんが！？」[END]
+Bulma: "Wait!! Mom and Dad!?"
 
 
 //POINTER #395 @ $4C9FA - STRING #395 @ $4F1DA
 
 #W16($4C9FA)
 ブルマ「カプセルコーポレーションが[LINE]
+Bulma: "Capsule Corp's
 わたしの いえよ。」[END]
+run by my family!"
 
 
 //POINTER #396 @ $4C9FC - STRING #396 @ $4F1F7
 
 #W16($4C9FC)
 ウーロン「さすがに みやこはでっかくて[LINE]
+Oolong: "You're a big
 ギャルも おおそうだな。」[END]
+name 'round here, huh?"
 
 
 //POINTER #397 @ $4C9FE - STRING #397 @ $4F219
 
 #W16($4C9FE)
 ウミガメ「にぎやかな ところですね。」[END]
+Turtle: "It's bustling, isn't it?"
 
 
 //POINTER #398 @ $4CA00 - STRING #398 @ $4F22D
 
 #W16($4CA00)
 ウーロン「ウサギだんといえば トニシジンカって[LINE]
+Oolong: "Rabbit Mob... isn't
 ヤツが ボスのはずだぜ。 ヤツにさわると みんな[LINE]
+Monster Carrot the boss? If you
 ニンジンに なっちまうんだ！ やばいよ！」[END]
+get on his nerves, he'll turn you into a carrot! Crazy stuff."
 
 
 //POINTER #399 @ $4CA02 - STRING #399 @ $4F274
 
 #W16($4CA02)
 ウサギのみみかざりをつけた おかしなれんちゅうが[LINE]
+They're a funny lot that wear rabbit ears
 おおいばりで あるいています。[END]
+and even show them off.
 
 
 //POINTER #400 @ $4CA04 - STRING #400 @ $4F29D
 
 #W16($4CA04)
 どうやら かれらが ウサギだんのようです。[END]
+That guy must be part of the Rabbit Mob.
 
 
 //POINTER #401 @ $4CA06 - STRING #401 @ $4F2B3
 
 #W16($4CA06)
 そちらへは いけません。[END]
+You can't go there.
 
 
 //POINTER #402 @ $4CA08 - STRING #402 @ $4F2C0
 
 #W16($4CA08)
 ブルマ「にしが カプセルコーポレーションよ！」[END]
+Bulma: "Capsule Corp is to the west."
 
 
 //POINTER #403 @ $4CA0A - STRING #403 @ $4F2D8
 
 #W16($4CA0A)
 ブルマ「なによ あの おかしなれんちゅう！！」[END]
+Bulma: "What's up with those freaks!?"
 
 
 //POINTER #404 @ $4CA0C - STRING #404 @ $4F2F0
 
 #W16($4CA0C)
 ウミガメ「ガラのわるそうな ひとたちですね。」[END]
+Turtle: "They don't seem to be in great shape..."
 
 
 //POINTER #405 @ $4CA0E - STRING #405 @ $4F308
 
 #W16($4CA0E)
 ウサギだん「おい みなれねえヤツだな。 ちょっと[LINE]
+Monster Carrot: "Hey. You guys.
 オレたちに つきあってもらおうか。」[END]
+C'mere, won'tcha?"
 
 
 //POINTER #406 @ $4CA10 - STRING #406 @ $4F334
 
 #W16($4CA10)
 ゴクウとウサギだんの たいけつです。[END]
+It's a showdown between Goku and Monster Carrot!!
 
 
 //POINTER #407 @ $4CA12 - STRING #407 @ $4F347
 
 #W16($4CA12)
 ウサギだん「ちょっと まちな！！ ここから[LINE]
+Monster Carrot: "Hold on a hopping sec!
 さきへは いかすわけには いかねえ！！」[END]
+No need to off me here n' now!!"
 
 
 //POINTER #408 @ $4CA14 - STRING #408 @ $4F372
 
 #W16($4CA14)
 つうこうにん「ウサギだんのオヤブンに さわると[LINE]
+Civilian: "Everyone who messes with
 みな ニンジンに なってしまんですよ。」[END]
+the Boss gets turned into a carrot, you know."
 
 
 //POINTER #409 @ $4CA16 - STRING #409 @ $4F39F
 
 #W16($4CA16)
 ウーロン「なんか やばいよ！！」[END]
+Oolong: "Ugh, how awful!!"
 
 
 //POINTER #410 @ $4CA18 - STRING #410 @ $4F3B0
 
 #W16($4CA18)
 つうこうにん「トニンジンカに ニンジンにされて[LINE]
+Civilian: "I heard he even eats
 たべられてしまったひとも いるらしいですよ。」[END]
+people that get turned into carrots."
 
 
 //POINTER #411 @ $4CA1A - STRING #411 @ $4F3B0
 
 #W16($4CA1A)
 つうこうにん「トニンジンカに ニンジンにされて[LINE]
+Civilian: "I heard he even eats
 たべられてしまったひとも いるらしいですよ。」[END]
+people that get turned into carrots."
 
 
 //POINTER #412 @ $4CA1C - STRING #412 @ $4F3B0
 
 #W16($4CA1C)
 つうこうにん「トニンジンカに ニンジンにされて[LINE]
+Civilian: "I heard he even eats
 たべられてしまったひとも いるらしいですよ。」[END]
+people that get turned into carrots."
 
 
 //POINTER #413 @ $4CA1E - STRING #413 @ $4F3E0
 
 #W16($4CA1E)
 つうこうにん「カプセルコーポレーションを[LINE]
+Civilian: "Seems like Monster
 ウサギだんは きちにしているようです。」[END]
+Carrot's been using Capsule Corp as a base."
 
 
 //POINTER #414 @ $4CA20 - STRING #414 @ $4F3E0
 
 #W16($4CA20)
 つうこうにん「カプセルコーポレーションを[LINE]
+Civilian: "Seems like Monster
 ウサギだんは きちにしているようです。」[END]
+Carrot's been using Capsule Corp as a base."
 
 
 //POINTER #415 @ $4CA22 - STRING #415 @ $4F3E0
 
 #W16($4CA22)
 つうこうにん「カプセルコーポレーションを[LINE]
+Civilian: "Seems like Monster
 ウサギだんは きちにしているようです。」[END]
+Carrot's been using Capsule Corp as a base."
 
 
 //POINTER #416 @ $4CA24 - STRING #416 @ $4F3E0
 
 #W16($4CA24)
 つうこうにん「カプセルコーポレーションを[LINE]
+Civilian: "Seems like Monster
 ウサギだんは きちにしているようです。」[END]
+Carrot's been using Capsule Corp as a base."
 
 
 //POINTER #417 @ $4CA26 - STRING #417 @ $4F3E0
 
 #W16($4CA26)
 つうこうにん「カプセルコーポレーションを[LINE]
+Civilian: "Seems like Monster
 ウサギだんは きちにしているようです。」[END]
+Carrot's been using Capsule Corp as a base."
 
 
 //POINTER #418 @ $4CA28 - STRING #418 @ $4F3E0
 
 #W16($4CA28)
 つうこうにん「カプセルコーポレーションを[LINE]
+Civilian: "Seems like Monster
 ウサギだんは きちにしているようです。」[END]
+Carrot's been using Capsule Corp as a base."
 
 
 //POINTER #419 @ $4CA2A - STRING #419 @ $4F40A
 
 #W16($4CA2A)
 ここは カプセルコーポレーションです。[END]
+This is Capsule Corporation.
 
 
 //POINTER #420 @ $4CA2C - STRING #420 @ $4F41E
 
 #W16($4CA2C)
 りっぱな たてものです。 げんかんのところに[LINE]
+It's a rather nice building. The
 ウサギだんの れんちゅうがいます。[END]
+Rabbit Mob is in the lobby.
 
 
 //POINTER #421 @ $4CA2E - STRING #421 @ $4F447
 
 #W16($4CA2E)
 りっぱな たてものです。[END]
+It's a rather nice building.
 
 
 //POINTER #422 @ $4CA30 - STRING #422 @ $4F454
 
 #W16($4CA30)
 みはりのようです。[END]
+Looks like surveillance.
 
 
 //POINTER #423 @ $4CA32 - STRING #423 @ $4F45E
