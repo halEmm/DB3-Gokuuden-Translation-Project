@@ -3117,52 +3117,64 @@ Looks like surveillance.
 
 #W16($4CA32)
 つうこうにん「カプセルコーポレーションの[LINE]
+Civilian: "Capsule Corp's 
 しゃちょうさんたちは ニンジンに[LINE]
+managers have probably
 されたそうです。」[END]
+been turned into carrots!"
 
 
 //POINTER #424 @ $4CA34 - STRING #424 @ $4F48E
 
 #W16($4CA34)
 ブルマ「ここが わたしの いえよ。」[END]
+Bulma: "This is my house!"
 
 
 //POINTER #425 @ $4CA36 - STRING #425 @ $4F4A1
 
 #W16($4CA36)
 ウミガメ「りっぱな おたくですね。」[END]
+Turtle: "Well, it's a handsome home."
 
 
 //POINTER #426 @ $4CA38 - STRING #426 @ $4F4B4
 
 #W16($4CA38)
 ウーロン「へーっ すげえいえだな！」[END]
+Oolong: "Woah... it's awesome!"
 
 
 //POINTER #427 @ $4CA3A - STRING #427 @ $4F4C7
 
 #W16($4CA3A)
 ウサギだん「きさまら このたてもののなかへは[LINE]
+Monster Carrot: "These idiots... they've
 はいれんぞ！！」[END]
+already made it inside!?"
 
 
 //POINTER #428 @ $4CA3C - STRING #428 @ $4F4E7
 
 #W16($4CA3C)
 ウサギだん「コラーっ！！ このなかには[LINE]
+Monster Carrot: "Take that!!
 はいれんのだ！！」[END]
+See if you stick around!!"
 
 
 //POINTER #429 @ $4CA3E - STRING #429 @ $4F505
 
 #W16($4CA3E)
 ここは ブルマのへやです。[END]
+This is Bulma's room.
 
 
 //POINTER #430 @ $4CA40 - STRING #430 @ $4F513
 
 #W16($4CA40)
 ここは ブルマのへやです。 ウサギだんがいます。[END]
+This is Bulma's room, and Monster Carrot's inside.
 
 
 //POINTER #431 @ $4CA42 - STRING #431 @ $4F52C
